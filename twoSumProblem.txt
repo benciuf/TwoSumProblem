@@ -4,5 +4,7 @@ The two sum problem is a common interview question, and it is a variation of the
 2. sumSearch = 7
 3. getTwoSum(){
 	
+	for i in X:
+		
 	
 }
